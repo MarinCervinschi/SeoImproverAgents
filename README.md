@@ -1,3 +1,5 @@
+Contributors: Marin Cervinschi, Nicola Guerra, Giacomo Secchi
+
 # SeoImproverAgents
 
 A multi-agent system for content analysis with plagiarism detection and citation management, powered by Google Gemini and MCP.
