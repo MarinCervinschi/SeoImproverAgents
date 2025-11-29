@@ -47,10 +47,16 @@ GOOGLE_API_KEY=your_api_key_here
 uv run main.py
 ```
 
-4. Run the agent:
+4. Run the agent (CLI):
 ```bash
 adk run my_agent
 ```
+
+5. Run the agent (Web UI):
+```bash
+adk web --port 7000
+```
+Then open http://localhost:7000 in your browser.
 
 ## Usage
 
